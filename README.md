@@ -15,4 +15,4 @@ git remote add origin https://github.com/AbiramiManikandan/demo3.git
 git push -u origin main
 ```
 	+ I have create an empty folder in my file explorer and opended the folder in CMD. After opened CMD i just cop pasted the line one by one.
-	+ This first line `echo "# demo3" >> README.md` created an README.md file with the content `"# demo2"`. 
+		+ This first line `echo "# demo3" >> README.md` created an README.md file with the content `"# demo2"`. 
